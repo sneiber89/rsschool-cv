@@ -1,1 +1,1 @@
-# rsschool-cv
+ttps://sneiber89.github.io/rsschool-cv/cv
