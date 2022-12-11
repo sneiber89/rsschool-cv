@@ -1,6 +1,6 @@
 # Siarhei Siaredzich  
 
-![](https://drive.google.com/file/d/1WNXFhjgrvcUCC1bLgmVmdAnoOotadKqY/view?usp=sharin)  
+![](/rsschool-cv/1.png)  
 
 ## Contacts
 
@@ -32,7 +32,7 @@ int multiply(int a, int b)
 
 > My first project this is CV.
 
-  Language:
+## Language:
 
 * Russian - native
 * English - A1 (A2 in progress)
