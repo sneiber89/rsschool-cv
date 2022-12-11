@@ -1,6 +1,6 @@
 # Siarhei Siaredzich  
 
-![Foto](https://drive.google.com/file/d/1sQ41nktewfZrEM2gho-j-8srYipsNoKM/view?usp=sharing)
+![](https://media-exp1.licdn.com/dms/image/C4D03AQFiFe0MX5x6ww/profile-displayphoto-shrink_800_800/0/1637736127041?e=2147483647&v=beta&t=Q4-w7u57EvkbkERscNRT_ONzm2hCw4MxP3c8SgPoVWI)
 
 ## Contacts
 
