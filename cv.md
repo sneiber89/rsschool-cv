@@ -1,11 +1,11 @@
 # Siarhei Siaredzich  
 
-![](/rsschool-cv/1.png)  
+![Foto](https://drive.google.com/file/d/1sQ41nktewfZrEM2gho-j-8srYipsNoKM/view?usp=sharing)
 
 ## Contacts
 
 * Discord - sneiber89
-* Telegramm - men_nemo
+* Telegram - men_nemo
 * Phone, Viber, Whatsapp - +375447718698
 
 ---
@@ -32,7 +32,7 @@ int multiply(int a, int b)
 
 > My first project this is CV.
 
-## Language:
+## Language
 
 * Russian - native
 * English - A1 (A2 in progress)
